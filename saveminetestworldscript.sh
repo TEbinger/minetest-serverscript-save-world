@@ -27,3 +27,4 @@ elif $backup && ! ps ax | grep -v grep | grep $service ; then
 minetest --server &((start++))
 fi
 done
+##danke für das ursprüngliche Skript an TalkLounge
